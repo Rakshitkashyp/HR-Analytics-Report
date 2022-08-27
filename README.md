@@ -1,6 +1,6 @@
 # HR-Analytics-Report
 
-This is the Hr Analytics Report Using PowerBi with these condition rules
+This is the Hr Analytics Dashboard Report Using PowerBi with these condition rules
 
 Conditional Rules - Applied on the data.
 1) To promote employees who have never been promoted in 10 years. 
